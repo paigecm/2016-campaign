@@ -1,7 +1,7 @@
 # 2016-campaign
 2016 Presidential Campaign Speeches
 
-This repository contains a selection of campaign speeches given by Hillary Clinton and Donald Trump during the 2016 presidential campaign.
+This repository contains a selection of campaign speeches given by Hillary Clinton and Donald Trump during the 2016 presidential campaign. *Note:* In most cases, these are the speeches as released or published by the candidates' own campaigns, sourced from their websites. Thus, these texts do not usually include ad libbed remarks by the candidates (this is more of an issue with Trump than Clinton).
 
 The selection was originally created for a text mining workshop for a history class. I began with the speeches available at the UCSB American Presidency Project (http://www.presidency.ucsb.edu/index.php), and then added further speeches from the candidates' websites and major news outlets.
 
