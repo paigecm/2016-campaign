@@ -10,3 +10,5 @@ As of October 25th, I have added the text of the three presidential debates, sep
 Each subfolder inside presidential-debates includes the full text of the debate (obtained from the New York Times transcripts), the PHP script used to separate the full text into separate files by speaker (originally published by the VoyantTools twitter account: https://gist.github.com/anonymous/ddefcadcd2e8e6e604f95c7fea318868), and the files for each speaker, including moderators (in case anyone wants to examine the moderators' words in comparison with the two candidates' words.)
 
 The PHP script is essentially the same; all that has been changed is the names of the moderators in line 7.
+
+I intend to keep on adding speeches to each of the candidates' individual folders over time.
